@@ -1,0 +1,12 @@
+{
+  "name": "shape_module",
+  "version": "0.0.1",
+  "description": "A simple shape module",
+  "main": "app.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
